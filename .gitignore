@@ -1,3 +1,16 @@
 build/
 .gradle/
 .idea/
+obj/
+log/
+logs/
+captures/
+*.iml
+local.properties
+*.keystore
+*.log
+*.apk
+*cruise-output*
+.DS_Store
+web/
+out/
